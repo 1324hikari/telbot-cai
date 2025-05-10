@@ -3,6 +3,8 @@
 Telbot-CAI uses the PyCharacterAI library and the python-telegram-bot library.
 This program sends and recieves messages to CharacterAI using Telegram.
 
+![Screenshot_20250511_031834](https://github.com/user-attachments/assets/206bd94e-4544-4d05-baf6-25f8bc2f1b4b) 
+
 Please note that this is still in development and you may face issues.
 
 # Installation
