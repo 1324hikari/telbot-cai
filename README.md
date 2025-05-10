@@ -67,12 +67,12 @@ After running the bot for the first time, send a ```/start``` message to the bot
 
 ## Donate to the Project
 
-**Bitcoin (BTC): 1FCCRMqHhn1uheccUNbQKzPy9xg1WVfwui**
+**Bitcoin (BTC): 1LraCM3m3ZQA5R2PK3xma5EhyTZnppLJ77**
 
-**Ethereum (ETH): 0x6187c2b9484274012e209bfa8c34cd5cbb90364e**
+**Ethereum (ETH): 0xd3fd202e9039fba5869a86052f36d904688b78fb**
 
 **Dogecoin (DOGE):
-DH1M64ATHMgTqwrsokjanny6ML1wP3W6TQ**
+DEzq2BdGF7s5NVqiFHuEhZ4GZq8cVHA7yr**
 
 ## Contributing
 
